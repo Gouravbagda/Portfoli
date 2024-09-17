@@ -1,6 +1,6 @@
 # Gourav Bagda - Full Stack Developer 👨‍💻
 
-![Screenshot 2024-09-17 124142](https://github.com/user-attachments/assets/4457e2ed-1684-458-98fc-724db3ed6028)
+
 
 
 Welcome to my Portfolio website! Here you'll find a collection of projects showcasing my skills as a Full Stack Developer.
