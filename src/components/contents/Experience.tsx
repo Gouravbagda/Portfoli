@@ -22,11 +22,11 @@ const Experience = () => {
             <TimeLineItem last>
                 <TimeLineItem.Title>
                     <span className="font-medium transition-all hover:text-white hover:underline hover:underline-offset-2">
-                        Backend Developer (Freelance) at Saman Technosys
+                        Backend Developer (Freelancer)
                     </span>
                     {" "}•{" "}
                     <span className="text-neutral-200">
-                        Oct 2023 - Nov 2023
+                        Oct 2023 - Dec 2023
                     </span>
                 </TimeLineItem.Title>
                 <TimeLineItem.Description>
